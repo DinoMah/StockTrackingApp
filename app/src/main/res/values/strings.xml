@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StockTrackingApp</string>
+    <string name="title">My Stocks</string>
+    <string name="addNewTitle">New Stock Symbol</string>
+    <string name="confirmButton">Ok</string>
+    <string name="addButtonText">Add</string>
+    <string name="symbol">%s</string>
+    <string name="price">%s</string>
+    <string name="high">%s</string>
+    <string name="low">%s</string>
+    <string name="savedStocks">savedStocks</string>
+</resources>
